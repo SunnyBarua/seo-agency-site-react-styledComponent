@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/seo-agency-site-react-styledComponent/static/js/main.5a6d3457.chunk.js",
+    "main.js.map": "/seo-agency-site-react-styledComponent/static/js/main.5a6d3457.chunk.js.map",
+    "runtime-main.js": "/seo-agency-site-react-styledComponent/static/js/runtime-main.5d659296.js",
+    "runtime-main.js.map": "/seo-agency-site-react-styledComponent/static/js/runtime-main.5d659296.js.map",
+    "static/js/2.7d122454.chunk.js": "/seo-agency-site-react-styledComponent/static/js/2.7d122454.chunk.js",
+    "static/js/2.7d122454.chunk.js.map": "/seo-agency-site-react-styledComponent/static/js/2.7d122454.chunk.js.map",
+    "index.html": "/seo-agency-site-react-styledComponent/index.html",
+    "precache-manifest.dff912c558bf6c22ed1efa01ddf8dbe3.js": "/seo-agency-site-react-styledComponent/precache-manifest.dff912c558bf6c22ed1efa01ddf8dbe3.js",
+    "service-worker.js": "/seo-agency-site-react-styledComponent/service-worker.js",
+    "static/js/2.7d122454.chunk.js.LICENSE.txt": "/seo-agency-site-react-styledComponent/static/js/2.7d122454.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/seo-agency-site-react-styledComponent/static/media/profile.22b025d4.jpg",
+    "static/media/svg-1.svg": "/seo-agency-site-react-styledComponent/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/seo-agency-site-react-styledComponent/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/seo-agency-site-react-styledComponent/static/media/svg-3.397c455a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d659296.js",
+    "static/js/2.7d122454.chunk.js",
+    "static/js/main.5a6d3457.chunk.js"
+  ]
+}
